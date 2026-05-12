@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Juan De La Cruz | Digital Marketing & Analytics"
+  google-analytics: "G-PSW1MY7HB4"
   navbar:
     left:
       - text: "Home"
