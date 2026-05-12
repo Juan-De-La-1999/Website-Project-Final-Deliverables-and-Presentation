@@ -1,0 +1,49 @@
+---
+title: "Digital Marketing Projects"
+---
+
+# Overview
+
+This page highlights several digital marketing projects I’ve led or contributed to across e‑commerce, branding, strategy, and consumer insights. Each project demonstrates my ability to combine creativity, analytics, and cross‑functional collaboration to solve business problems and support organizational goals.
+
+# MBA Strategy Consulting Project - Pomona Pawn Shop
+
+## Project Background
+
+Pomona Pawn Shop, a family‑owned business founded in 2012, struggled to attract younger consumers ages 18–25 despite operating in a high‑traffic retail category. The project aimed to understand why this demographic avoids pawn shops, uncover their retail expectations, and identify opportunities to modernize the brand. The study focused on consumer behavior, brand perception, and the impact of digital presence on awareness and trust.
+
+## Research Approach
+
+To explore these questions, I conducted a full marketing research study using surveys, behavioral analysis, and competitive insights. Two SurveyMonkey surveys were distributed to 100 total participants: current customers (ages 35–50) and young adults (ages 18–25) within a 25‑mile radius. The research combined quantitative and qualitative methods, covering demographics, retail preferences, perceptions of pawn shops, and expectations for customer experience and digital engagement.
+
+## Key Insights & Strategic Impact
+
+Findings revealed major misconceptions about pawn shops, low digital brand awareness, and concerns around safety, customer service, and transparency. Young consumers expressed interest in deals and unique items but lacked understanding of what pawn shops offer. Based on these insights, I recommended a modernized digital strategy centered on social media marketing, brand education, improved customer experience, and visual rebranding. These strategies provide a clear roadmap for attracting younger shoppers and strengthening long‑term brand perception.
+
+# GBA 6520 Zara Marketing Plan Final Project
+
+## Project Background
+
+This project explored Zara’s challenge of improving its in‑store customer experience in a fast‑fashion environment where consumer expectations are shifting toward personalization, digital integration, and immersive retail. Although Zara is a global leader with more than 3,000 stores, the brand faces gaps in engagement, limited in‑store interactivity, and a lack of seamless digital‑physical integration. The goal of the project was to analyze Zara’s customer journey, identify pain points, and design an innovative solution that enhances the shopping experience through emerging technology.
+
+## Research Approach & Technology Insight
+
+The team conducted a full analysis of Zara’s customer journey, identifying key friction points such as confusion around styles and sizes, limited payment options, slow returns, and a lack of personalized assistance. To address these issues, the project evaluated immersive technologies — including Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR). MR emerged as the most effective solution due to its ability to merge physical and digital environments, enabling real‑time interaction with virtual products, styling tools, and curated collections. The research also examined Zara Home’s integration potential, recognizing an opportunity to create a unified lifestyle experience through shared space and MR‑enhanced displays.
+
+## Solution Design & Strategic Impact
+
+The proposed solution centered on implementing Mixed Reality experiences inside Zara stores, including virtual styling sessions, MR‑guided store navigation, curated Zara + Zara Home displays, and immersive product try‑ons without fitting rooms. The implementation plan followed a structured 18‑month rollout, from planning and technology selection to pilot testing and full deployment. Expected outcomes included a 10% increase in customer spending, a 15% boost in brand awareness, improved staff interaction scores, and stronger word‑of‑mouth marketing. By blending fashion, technology, and experiential retail, the solution positions Zara to elevate customer engagement, increase dwell time, and strengthen its competitive edge in the global fashion market.
+
+# Ontario International Airport: Future-Proofing Parking revenue & Utilization
+
+## Project Background
+
+This project focused on helping Ontario International Airport (ONT) modernize its parking strategy to increase revenue, improve lot utilization, and prepare for future mobility trends. The airport faced major imbalances across its parking lots—some operating near capacity while others remained severely underutilized. This inefficiency resulted in more than **\$115,000 in lost daily revenue**, driven largely by flat pricing that didn’t reflect real‑time demand. The goal was to design a smarter, data‑driven pricing model that aligns with traveler behavior, balances occupancy across all lots, and positions ONT for long‑term growth.
+
+## Research Approach & Analytically Insights
+
+The team conducted a full revenue and capacity analysis across all ONT parking lots, evaluating occupancy rates, pricing elasticity, and potential revenue uplift under different pricing scenarios. Key findings showed that **Lot 4 operated at 90% occupancy**, while **Lots 5 and 6 remained below 30%**, revealing clear opportunities for redistribution. Using demand‑based modeling, elasticity testing, and scenario forecasting, the team developed a dynamic surge pricing framework that adjusts rates based on real‑time occupancy. Additional analysis explored long‑stay incentives, EV‑specific pricing, pre‑booking behavior, and targeted promotions to shift demand from high‑pressure lots to underutilized ones.
+
+## Strategic Recommendations & Impact
+
+The final solution proposed a dynamic pricing engine that increases rates during peak demand and lowers prices in low‑utilization lots to encourage redistribution. This model is projected to increase total parking revenue by **10–15%**, improve lot balance by **20%**, and raise pre‑booking share above **25%**. The strategy also includes EV‑tiered pricing, loyalty integration, shuttle coordination, and a mobile app experience featuring real‑time pricing, “best value” recommendations, and one‑tap reservations. Long‑term, the plan positions ONT for future mobility trends—including autonomous vehicles, expanded EV infrastructure, and AI‑powered predictive pricing—ensuring the airport remains competitive, efficient, and traveler‑focused.

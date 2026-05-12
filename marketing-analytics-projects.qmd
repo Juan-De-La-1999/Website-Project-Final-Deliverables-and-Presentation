@@ -1,0 +1,91 @@
+---
+title: "Marketing Analytics Projects"
+---
+
+# Does App Satisfaction Drive Fast Food Purchases?
+
+## Project Background
+
+This project explored Zara’s challenge of improving its in‑store customer experience in a fast‑fashion environment where consumer expectations are shifting toward personalization, digital integration, and immersive retail. Although Zara is a global leader with more than 3,000 stores, the brand faces gaps in engagement, limited in‑store interactivity, and a lack of seamless digital‑physical integration. The goal of the project was to analyze Zara’s customer journey, identify pain points, and design an innovative solution that enhances the shopping experience through emerging technology.
+
+## Research Approach & Technology Insight
+
+The team conducted a full analysis of Zara’s customer journey, identifying key friction points such as confusion around styles and sizes, limited payment options, slow returns, and a lack of personalized assistance. To address these issues, the project evaluated immersive technologies — including Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR). MR emerged as the most effective solution due to its ability to merge physical and digital environments, enabling real‑time interaction with virtual products, styling tools, and curated collections. The research also examined Zara Home’s integration potential, recognizing an opportunity to create a unified lifestyle experience through shared space and MR‑enhanced displays.
+
+## Solution Design & Strategic Impact
+
+The proposed solution centered on implementing Mixed Reality experiences inside Zara stores, including virtual styling sessions, MR‑guided store navigation, curated Zara + Zara Home displays, and immersive product try‑ons without fitting rooms. The implementation plan followed a structured 18‑month rollout, from planning and technology selection to pilot testing and full deployment. Expected outcomes included a 10% increase in customer spending, a 15% boost in brand awareness, improved staff interaction scores, and stronger word‑of‑mouth marketing. By blending fashion, technology, and experiential retail, the solution positions Zara to elevate customer engagement, increase dwell time, and strengthen its competitive edge in the global fashion market.
+
+# Rising Stars Muay Thai MSDM Final Project
+
+## About Rising Stars Muay Thai (RSMT)
+
+Rising Stars Muay Thai (RSMT) is a Sacramento-based Muay Thai promotion known for its loyal fighter and fan community, strong local partnerships, and “fighters-first” matchmaking philosophy. The organization hosts live events and pay-per-view (PPV) fight nights, primarily promoted through social media and Eventbrite.
+
+Despite its strong grassroots presence and authentic brand, RSMT currently lacks a centralized digital ecosystem, limiting its ability to scale and compete at a higher level.
+
+## The Challenge
+
+RSMT aims to grow into larger venues and expand its audience but faces key limitations:
+
+-   No official website or SEO presence
+
+-   No structured data collection or analytics system
+
+-   Limited understanding of its audience and customer journey
+
+-   Heavy reliance on Instagram without clear conversion tracking
+
+-   Disconnected platforms (social media, ticketing, gym memberships)
+
+These challenges make it difficult for RSMT to optimize marketing efforts, measure ROI, and convert fans into long-term customers.
+
+## Our Strategy & Objectives
+
+This project focuses on transforming RSMT into a data-driven organization through six core analytics objectives:
+
+-   **Website Optimization:** Build and analyze a website to improve user experience and ticket conversions
+
+-   **Audience Segmentation:** Identify key audience groups for more targeted marketing
+
+-   **Social Media Engagement:** Determine what content drives engagement and ticket sales
+
+-   **Customer Journey Mapping:** Understand how users move from awareness to purchase
+
+-   **Event-to-Membership Conversion:** Analyze how events influence gym sign-ups
+
+-   **Influencer Impact:** Measure the effectiveness of fighter-led promotions
+
+The goal is to connect all digital touchpoints, uncover actionable insights, and create a scalable marketing strategy that drives both event attendance and memberships.
+
+## Data Collection Plan
+
+As this is an ongoing project, our data collection strategy is currently being developed and implemented. The plan includes:
+
+-   **Website Analytics (GA4):** Tracking user behavior, traffic sources, and conversions
+
+-   **Event Data:** Integrating ticket sales and attendance data from Eventbrite
+
+-   **Social Media Insights:** Collecting engagement and performance metrics from platforms like Instagram and Facebook
+
+-   **Surveys & CRM Data:** Gathering demographic, behavioral, and psychographic insights directly from attendees and gym members
+
+-   **Tracking Systems:** Implementing standardized IDs and event tracking to connect data across platforms
+
+We will focus on audiences within a 5–10 mile radius and continuously refine our data collection methods to ensure accuracy, reduce gaps, and improve attribution.
+
+As data is collected, it will be analyzed to guide marketing decisions, improve campaign performance, and support RSMT’s long-term growth.
+
+# AP Audemars Piguet Re imagining Royal Oak: A Data Driven Case For Innovation
+
+## Project Background
+
+This project explored whether satisfaction with fast‑food mobile ordering apps influences how often customers use them and how frequently they make purchases. As mobile ordering becomes a core part of the fast‑food experience, brands struggle to understand whether their apps truly meet customer expectations for speed, convenience, and accuracy. The study focused on identifying which app features drive satisfaction and whether that satisfaction translates into higher usage and repeat purchases—key insights for improving digital experience and customer retention.
+
+## Research Approach & Data Analysis
+
+The team designed a Qualtrics survey aligned with two analytics objectives: measuring app satisfaction and linking satisfaction to behavioral outcomes. The survey captured usability, ordering speed, order accuracy, convenience, purchase frequency, and future usage intentions. A sample of 100+ respondents (primarily young adults and students) provided data for SPSS analysis. After cleaning and recoding variables, the team conducted descriptive statistics, correlation testing, and multiple regression. Results showed high satisfaction overall, moderate app usage, and a small positive—but not statistically significant—relationship between satisfaction and usage. Regression analysis indicated that usability factors alone did not significantly predict changes in purchase frequency.
+
+## Key Insights & Managerial Impact
+
+The findings suggest that while customers generally enjoy using fast‑food apps, satisfaction alone does not strongly drive purchase frequency. Instead, usage patterns vary widely, especially among younger, mobile‑first consumers. Based on these insights, the team recommended strengthening core app performance (speed, reliability, navigation), implementing loyalty rewards and personalized deals to encourage repeat usage, and targeting marketing efforts toward young adults and students who are most likely to engage with mobile ordering. These strategies help brands reduce friction, increase engagement, and build long‑term digital loyalty.

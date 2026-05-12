@@ -1,0 +1,100 @@
+---
+title: "Resume"
+---
+
+## Juan De La Cruz Professional & Education Background
+
+# Resume
+
+You can view a PDF version of my resume here
+
+# Professional Summary
+
+Dynamic digital marketing and analytics professional with experience across e‑commerce, retail, and strategy consulting. Proven ability to drive revenue growth, optimize digital performance, and lead cross‑functional marketing initiatives. Skilled in consumer behavior analysis, user experience improvement, and data‑driven storytelling to solve business problems and guide strategic decisions. Known for delivering measurable results, managing multi‑platform operations, and collaborating with diverse teams to achieve organizational goals.
+
+# Technical Software Skills
+
+## Marketing Skills
+
+Canva, Adobe Photoshop, Salesforce, Shopify, E-Commerce Platforms, Social Media Platforms, Capcut, Monday.com
+
+## Analytics Skills
+
+Analytics: R, Python, SQL HTML, Quarto, Hubspot, Google Analytics, Google Bigquery, Tableau,Microsoft Excel
+
+# Education
+
+| Degree | Year | College | Instituation |
+|----|----|----|----|
+| Master of Science, Digital Marketing & Analytics | August 2025 - August 2026 (Expected Graduation) | Singelyn Graduate School of Business | California State Polytechnic University, Pomona |
+| Master of Business Administration (MBA) | August 2023 - May 2025 | Singelyn Graduate School of Business | California State Polytechnic University, Pomona |
+| Bachelor of Science, Marketing Management & International Business | August 2017 - May 2023 | The College of Business Administration | California State Polytechnic University, Pomona |
+| Minor: Hospitality Management | August 2022 - May 2023 | The Collins College of Hospitality Management | California State Polytechnic University, Pomona |
+
+# Work Experience
+
+## E-Commerce Specialist
+
+### Sunny Health & Fitness
+
+-   Manage daily e‑commerce operations across Target, Best Buy Canada, Mathis Home, and Meijer, including new product listings, content updates, and platform compliance.
+
+-   Run CPC paid advertising campaigns across multiple marketplaces, monitor spend, and optimize performance to improve visibility and conversions.
+
+-   Support Amazon operations by assisting with product listings, keyword updates, and performance monitoring.
+
+-   Conduct ongoing market and competitor research to guide pricing strategy, identify category trends, and adjust listings to increase conversions and improve keyword relevance.
+
+-   Collaborate with account managers to plan promotions, align advertising strategies, and ensure high‑priority items are featured during major promotional periods.
+
+-   Use marketplace insights and performance data to recommend adjustments that strengthen brand presence and drive revenue growth across platforms.
+
+## Marketing & E-Commerce Manager
+
+### Pomona Pawn Shop
+
+-   Drove **95.5% YoY** in eBay sales & boosted **CTR by 120%** through optimized product listings, diverse inventory strategy, and targeted Google Ads.
+
+-   Led integrated campaigns across digital & in-person channels, increasing brand visibility and driving retail foot traffic.
+
+-   Delivered competitor & market analysis to guide pricing & refine brand strategy, supporting long-term positioning.
+
+-   Oversaw multi-platform e-commerce operation, resolving customer inquiries, negotiating pricing, and managing logistics for pickups & shipments.
+
+-   Directed monthly strategy sessions with stakeholders & managers, presenting **KPIs, ROI, P&L impact**, and category growth opportunities.
+
+-   Analyzed syndicated data and managed marketing budgets, aligning trade spend with category strategy & ROI goals.
+
+## MBA Strategy Consulting Project
+
+### California State Polytechnic University, Pomona - MBA Program
+
+-   Led a semester-long project to revitalize a local retail brand by targeting **Gen Z (18-25)** through customer segmentation, behavior analysis, and strategic marketing.
+
+-   Achieved a **75% response rate** using focus groups & Mailchimp surveys to uncover brand perceptions & engagement barriers.
+
+-   Presented insights and strategy to stakeholders, recommending social media rebranding and loyalty initiatives to close brand gaps and drive Gen Z growth.
+
+## E-Commerce Assistant
+
+### Altair Design USA
+
+-   Executed product launch strategies **across five commerce platforms**, social media, & trade shows, enhancing brand visibility, shopper engagement, and market traction.
+
+-   Conducted competitive & category research to optimize digital content & improve product positioning across online channels.
+
+-   Led cross-functional alignment between sales & marketing teams to optimize inventory planning using biweekly performance insights, improving operational efficiency and demand forecasting.
+
+-   Created content for **Instagram, Facebook, Pinterest**, and the company website, and built a social media calendar to schedule daily content posts for consistent brand presence and engagement.
+
+-   Resolved customer & vendor inquiries via email & phone, ensuring smooth fulfilment and a strong brand experience.
+
+## Buying Intern
+
+### Burlington Stores Inc
+
+-   Analyzed sales performance, syndicated data, and market trends to guide assortment planning & merchandise strategy across multiple product categories.
+
+-   Managed purchase orders & vendor relationships, driving cost savings, faster inventory turnover, and improved cash flow.
+
+-   Presented competitive insights through a capstone project, informing buying decisions & enhancing market responsiveness in dynamic retail environments.

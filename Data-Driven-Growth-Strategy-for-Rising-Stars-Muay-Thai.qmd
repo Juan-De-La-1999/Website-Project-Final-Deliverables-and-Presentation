@@ -1,0 +1,119 @@
+---
+title: "Rising Stars Muay Thai: Data-Driven Insights & Strategic Roadmap"
+author: "Juan De La Cruz"
+format:
+  revealjs:
+    transition: fade
+    slide-number: true
+    toc: false
+    incremental: true
+    embed-resources: true
+---
+
+# Project Title
+
+**Data-Driven Growth Strategy for Rising Stars Muay Thai**
+
+# Data & Source
+
+The project will leverage both primary and secondary data sources to build a comprehensive analytics framework:
+
+-   **Website Analytics (GA4):** User behavior, traffic sources, page views, and conversion tracking
+
+-   **Eventbrite Data:** Ticket sales, attendance records, and purchase behavior
+
+-   **Social Media Analytics:** Instagram and Facebook insights (engagement rates, impressions, content performance)
+
+-   **Customer Data (CRM & Surveys):** Demographic, behavioral, and psychographic information collected from attendees and gym members
+
+-   **Influencer Data:** Fighter-specific engagement and promotional performance
+
+These datasets will be integrated to provide a holistic view of customer interactions across all touchpoints.
+
+# Managerial Problems Motivating the Project
+
+RSMT currently faces several critical business challenges:
+
+-   Lack of a centralized digital platform (no website)
+
+-   No structured data collection or analytics infrastructure
+
+-   Inability to track marketing performance or measure ROI
+
+-   Limited understanding of customer segments and behavior
+
+-   Weak conversion from event attendees to gym memberships
+
+-   No measurable insights into influencer effectiveness
+
+These issues prevent management from making informed, data-driven decisions and limit the company’s ability to scale sustainably.
+
+# Targeted Audience of the Project
+
+This project is designed for key decision-makers within RSMT, including:
+
+-   Founder/Owner (CEO equivalent)
+
+-   Marketing Manager / Team
+
+-   Event Operations Managers
+
+-   Potential Sponsors and Business Partners
+
+The insights will help leadership optimize marketing strategies, justify investments, and demonstrate value to stakeholders.
+
+# Research Questions & Objectives
+
+The project aims to answer the following key questions:
+
+-   How can a website improve ticket sales and user engagement?
+
+-   What distinct audience segments exist, and which are most valuable?
+
+-   What type of social media content drives the highest conversions?
+
+-   Where do users drop off in the customer journey before purchasing tickets?
+
+-   How do live events influence gym membership conversions?
+
+-   Which fighters (influencers) generate the highest ROI in promotions?
+
+These questions are aligned with the overall objective of improving conversion rates and marketing efficiency.
+
+# Expected Impact of the Project on the Business
+
+The project is expected to deliver both strategic and financial benefits:
+
+-   Increased ticket sales and event attendance
+
+-   Higher conversion of fans into gym members
+
+-   Improved marketing ROI through targeted campaigns
+
+-   Clear understanding of high-value customer segments
+
+-   Data-backed decision-making across all marketing efforts
+
+-   Stronger positioning for sponsorships through measurable performance
+
+Ultimately, the project will enable RSMT to scale operations and transition from intuition-based decisions to a data-driven growth strategy.
+
+# Methods to be Used (Quantitative Methods)
+
+The project will apply several quantitative analytical methods:
+
+-   **Descriptive Analytics:** Analyze user behavior, engagement metrics, and sales trends
+
+-   **Cluster Analysis:** Segment audiences based on demographic, behavioral, and psychographic data
+
+-   **Customer Journey Analysis:** Track user pathways and identify drop-off points
+
+-   **Conversion Rate Analysis:** Evaluate effectiveness of marketing channels and campaigns
+
+-   **Regression Analysis (Logistic Regression):** Assess factors influencing ticket purchases and membership conversion
+
+-   **A/B Testing (if applicable):** Test variations in website design or content performance
+
+-   **Cross-Tabulation Analysis:** Identify relationships between variables such as event attendance and membership sign-ups
+
+These methods will provide actionable insights to optimize marketing strategies and improve overall business performance.
