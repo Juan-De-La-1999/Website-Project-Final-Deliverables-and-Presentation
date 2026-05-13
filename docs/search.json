@@ -42,64 +42,50 @@
     "text": "Top Pages\nIdentifies which pages receive the highest traffic, helping determine which projects or sections attract the most attention."
   },
   {
-    "objectID": "marketing-analytics-projects.html",
-    "href": "marketing-analytics-projects.html",
-    "title": "Marketing Analytics Projects",
-    "section": "",
-    "text": "This project explored Zara’s challenge of improving its in‑store customer experience in a fast‑fashion environment where consumer expectations are shifting toward personalization, digital integration, and immersive retail. Although Zara is a global leader with more than 3,000 stores, the brand faces gaps in engagement, limited in‑store interactivity, and a lack of seamless digital‑physical integration. The goal of the project was to analyze Zara’s customer journey, identify pain points, and design an innovative solution that enhances the shopping experience through emerging technology.\n\n\n\nThe team conducted a full analysis of Zara’s customer journey, identifying key friction points such as confusion around styles and sizes, limited payment options, slow returns, and a lack of personalized assistance. To address these issues, the project evaluated immersive technologies — including Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR). MR emerged as the most effective solution due to its ability to merge physical and digital environments, enabling real‑time interaction with virtual products, styling tools, and curated collections. The research also examined Zara Home’s integration potential, recognizing an opportunity to create a unified lifestyle experience through shared space and MR‑enhanced displays.\n\n\n\nThe proposed solution centered on implementing Mixed Reality experiences inside Zara stores, including virtual styling sessions, MR‑guided store navigation, curated Zara + Zara Home displays, and immersive product try‑ons without fitting rooms. The implementation plan followed a structured 18‑month rollout, from planning and technology selection to pilot testing and full deployment. Expected outcomes included a 10% increase in customer spending, a 15% boost in brand awareness, improved staff interaction scores, and stronger word‑of‑mouth marketing. By blending fashion, technology, and experiential retail, the solution positions Zara to elevate customer engagement, increase dwell time, and strengthen its competitive edge in the global fashion market."
-  },
-  {
-    "objectID": "marketing-analytics-projects.html#project-background",
-    "href": "marketing-analytics-projects.html#project-background",
-    "title": "Marketing Analytics Projects",
-    "section": "",
-    "text": "This project explored Zara’s challenge of improving its in‑store customer experience in a fast‑fashion environment where consumer expectations are shifting toward personalization, digital integration, and immersive retail. Although Zara is a global leader with more than 3,000 stores, the brand faces gaps in engagement, limited in‑store interactivity, and a lack of seamless digital‑physical integration. The goal of the project was to analyze Zara’s customer journey, identify pain points, and design an innovative solution that enhances the shopping experience through emerging technology."
-  },
-  {
-    "objectID": "marketing-analytics-projects.html#research-approach-technology-insight",
-    "href": "marketing-analytics-projects.html#research-approach-technology-insight",
-    "title": "Marketing Analytics Projects",
-    "section": "",
-    "text": "The team conducted a full analysis of Zara’s customer journey, identifying key friction points such as confusion around styles and sizes, limited payment options, slow returns, and a lack of personalized assistance. To address these issues, the project evaluated immersive technologies — including Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR). MR emerged as the most effective solution due to its ability to merge physical and digital environments, enabling real‑time interaction with virtual products, styling tools, and curated collections. The research also examined Zara Home’s integration potential, recognizing an opportunity to create a unified lifestyle experience through shared space and MR‑enhanced displays."
-  },
-  {
-    "objectID": "marketing-analytics-projects.html#solution-design-strategic-impact",
-    "href": "marketing-analytics-projects.html#solution-design-strategic-impact",
-    "title": "Marketing Analytics Projects",
-    "section": "",
-    "text": "The proposed solution centered on implementing Mixed Reality experiences inside Zara stores, including virtual styling sessions, MR‑guided store navigation, curated Zara + Zara Home displays, and immersive product try‑ons without fitting rooms. The implementation plan followed a structured 18‑month rollout, from planning and technology selection to pilot testing and full deployment. Expected outcomes included a 10% increase in customer spending, a 15% boost in brand awareness, improved staff interaction scores, and stronger word‑of‑mouth marketing. By blending fashion, technology, and experiential retail, the solution positions Zara to elevate customer engagement, increase dwell time, and strengthen its competitive edge in the global fashion market."
-  },
-  {
     "objectID": "marketing-analytics-projects.html#about-rising-stars-muay-thai-rsmt",
     "href": "marketing-analytics-projects.html#about-rising-stars-muay-thai-rsmt",
     "title": "Marketing Analytics Projects",
     "section": "About Rising Stars Muay Thai (RSMT)",
-    "text": "About Rising Stars Muay Thai (RSMT)\nRising Stars Muay Thai (RSMT) is a Sacramento-based Muay Thai promotion known for its loyal fighter and fan community, strong local partnerships, and “fighters-first” matchmaking philosophy. The organization hosts live events and pay-per-view (PPV) fight nights, primarily promoted through social media and Eventbrite.\nDespite its strong grassroots presence and authentic brand, RSMT currently lacks a centralized digital ecosystem, limiting its ability to scale and compete at a higher level."
+    "text": "About Rising Stars Muay Thai (RSMT)\nRising Stars Muay Thai (RSMT) is a Sacramento-based Muay Thai promotion known for its loyal fighter and fan community, strong local partnerships, and a “fighters-first” matchmaking philosophy. The organization hosts live events and pay-per-view (PPV) fight nights, primarily promoted through social media and Eventbrite.\nWhile RSMT has built a strong grassroots presence and authentic brand, it previously lacked a centralized digital ecosystem, limiting its ability to scale and compete at a higher level."
   },
   {
     "objectID": "marketing-analytics-projects.html#the-challenge",
     "href": "marketing-analytics-projects.html#the-challenge",
     "title": "Marketing Analytics Projects",
     "section": "The Challenge",
-    "text": "The Challenge\nRSMT aims to grow into larger venues and expand its audience but faces key limitations:\n\nNo official website or SEO presence\nNo structured data collection or analytics system\nLimited understanding of its audience and customer journey\nHeavy reliance on Instagram without clear conversion tracking\nDisconnected platforms (social media, ticketing, gym memberships)\n\nThese challenges make it difficult for RSMT to optimize marketing efforts, measure ROI, and convert fans into long-term customers."
+    "text": "The Challenge\nPrior to this project, RSMT faced several key limitations:\n\nNo official website or centralized digital platform\n\nNo structured data collection or analytics infrastructure\n\nLimited understanding of audience behavior and customer journey\n\nHeavy reliance on Instagram without measurable conversion tracking\n\nDisconnected platforms (social media, ticketing, and gym memberships)\n\nThese challenges made it difficult to optimize marketing performance, measure ROI, and convert fans into long-term customers."
   },
   {
-    "objectID": "marketing-analytics-projects.html#our-strategy-objectives",
-    "href": "marketing-analytics-projects.html#our-strategy-objectives",
+    "objectID": "marketing-analytics-projects.html#digital-transformation-implementation",
+    "href": "marketing-analytics-projects.html#digital-transformation-implementation",
     "title": "Marketing Analytics Projects",
-    "section": "Our Strategy & Objectives",
-    "text": "Our Strategy & Objectives\nThis project focuses on transforming RSMT into a data-driven organization through six core analytics objectives:\n\nWebsite Optimization: Build and analyze a website to improve user experience and ticket conversions\nAudience Segmentation: Identify key audience groups for more targeted marketing\nSocial Media Engagement: Determine what content drives engagement and ticket sales\nCustomer Journey Mapping: Understand how users move from awareness to purchase\nEvent-to-Membership Conversion: Analyze how events influence gym sign-ups\nInfluencer Impact: Measure the effectiveness of fighter-led promotions\n\nThe goal is to connect all digital touchpoints, uncover actionable insights, and create a scalable marketing strategy that drives both event attendance and memberships."
+    "section": "Digital Transformation & Implementation",
+    "text": "Digital Transformation & Implementation\n\n\n\n\n\n\nTip\n\n\n\nA centralized website was successfully developed and deployed, establishing the foundation for a data-driven marketing strategy.\n\n\nAs part of this project, the following solutions were implemented:\n\nA fully functional website hosted on GitHub Pages\n\nGoogle Analytics 4 integration for real-time tracking\n\nA Website Traffic Analytics page to monitor and forecast performance\n\nA structured framework for collecting and analyzing user behavior\n\nThis transformation connects digital touchpoints and enables measurable, data-driven decision-making."
   },
   {
-    "objectID": "marketing-analytics-projects.html#data-collection-plan",
-    "href": "marketing-analytics-projects.html#data-collection-plan",
+    "objectID": "marketing-analytics-projects.html#strategy-objectives",
+    "href": "marketing-analytics-projects.html#strategy-objectives",
     "title": "Marketing Analytics Projects",
-    "section": "Data Collection Plan",
-    "text": "Data Collection Plan\nAs this is an ongoing project, our data collection strategy is currently being developed and implemented. The plan includes:\n\nWebsite Analytics (GA4): Tracking user behavior, traffic sources, and conversions\nEvent Data: Integrating ticket sales and attendance data from Eventbrite\nSocial Media Insights: Collecting engagement and performance metrics from platforms like Instagram and Facebook\nSurveys & CRM Data: Gathering demographic, behavioral, and psychographic insights directly from attendees and gym members\nTracking Systems: Implementing standardized IDs and event tracking to connect data across platforms\n\nWe will focus on audiences within a 5–10 mile radius and continuously refine our data collection methods to ensure accuracy, reduce gaps, and improve attribution.\nAs data is collected, it will be analyzed to guide marketing decisions, improve campaign performance, and support RSMT’s long-term growth."
+    "section": "Strategy & Objectives",
+    "text": "Strategy & Objectives\nThis project focuses on transforming RSMT into a data-driven organization through six core analytics objectives:\n\nWebsite Optimization: Improve user experience and ticket conversion\n\nAudience Segmentation: Identify high-value customer groups\n\nSocial Media Engagement: Determine content that drives conversions\n\nCustomer Journey Mapping: Track user behavior from awareness to purchase\n\nEvent-to-Membership Conversion: Analyze impact of events on gym sign-ups\n\nInfluencer Impact: Measure effectiveness of fighter-led promotions\n\nThe goal is to create a scalable marketing strategy that drives both event attendance and long-term customer growth."
   },
   {
-    "objectID": "marketing-analytics-projects.html#project-background-1",
-    "href": "marketing-analytics-projects.html#project-background-1",
+    "objectID": "marketing-analytics-projects.html#data-collection-analytics-framework",
+    "href": "marketing-analytics-projects.html#data-collection-analytics-framework",
+    "title": "Marketing Analytics Projects",
+    "section": "Data Collection & Analytics Framework",
+    "text": "Data Collection & Analytics Framework\nA comprehensive data collection strategy has been designed and partially implemented, including:\n\nGoogle Analytics 4: Tracking users, sessions, page views, and engagement\n\nEvent Data (Eventbrite): Ticket sales and attendance behavior\n\nSocial Media Insights: Engagement metrics from Instagram and Facebook\n\nCustomer Data (CRM & Surveys): Demographic and behavioral insights\n\nTracking Systems: Connecting data across platforms using standardized tracking\n\nAdditionally, a six-month traffic forecast model was developed to estimate expected website growth as the platform gains visibility."
+  },
+  {
+    "objectID": "marketing-analytics-projects.html#impact-value",
+    "href": "marketing-analytics-projects.html#impact-value",
+    "title": "Marketing Analytics Projects",
+    "section": "Impact & Value",
+    "text": "Impact & Value\nThis project establishes a foundation for long-term growth by enabling:\n\nData-driven marketing decisions\n\nImproved customer targeting and segmentation\n\nIncreased ticket sales and event attendance\n\nHigher conversion to gym memberships\n\nMeasurable marketing performance and ROI\n\nStronger positioning for sponsorship opportunities\n\nOverall, the project transitions RSMT from intuition-based decision-making to a scalable, analytics-driven growth strategy."
+  },
+  {
+    "objectID": "marketing-analytics-projects.html#project-background",
+    "href": "marketing-analytics-projects.html#project-background",
     "title": "Marketing Analytics Projects",
     "section": "Project Background",
     "text": "Project Background\nThis project explored whether satisfaction with fast‑food mobile ordering apps influences how often customers use them and how frequently they make purchases. As mobile ordering becomes a core part of the fast‑food experience, brands struggle to understand whether their apps truly meet customer expectations for speed, convenience, and accuracy. The study focused on identifying which app features drive satisfaction and whether that satisfaction translates into higher usage and repeat purchases—key insights for improving digital experience and customer retention."
@@ -116,7 +102,49 @@
     "href": "marketing-analytics-projects.html#key-insights-managerial-impact",
     "title": "Marketing Analytics Projects",
     "section": "Key Insights & Managerial Impact",
-    "text": "Key Insights & Managerial Impact\nThe findings suggest that while customers generally enjoy using fast‑food apps, satisfaction alone does not strongly drive purchase frequency. Instead, usage patterns vary widely, especially among younger, mobile‑first consumers. Based on these insights, the team recommended strengthening core app performance (speed, reliability, navigation), implementing loyalty rewards and personalized deals to encourage repeat usage, and targeting marketing efforts toward young adults and students who are most likely to engage with mobile ordering. These strategies help brands reduce friction, increase engagement, and build long‑term digital loyalty."
+    "text": "Key Insights & Managerial Impact\nThe findings suggest that while customers generally enjoy using fast‑food apps, satisfaction alone does not strongly drive purchase frequency. Instead, usage patterns vary widely, especially among younger, mobile‑first consumers. Based on these insights, the team recommended strengthening core app performance (speed, reliability, navigation), implementing loyalty rewards and personalized deals to encourage repeat usage, and targeting marketing efforts toward young adults and students who are most likely to engage with mobile ordering. These strategies help brands reduce friction, increase engagement, and build long‑term digital loyalty.\n\n\n\n\n\n\nAP Audemars Piguet: Reimagining Royal Oak — A Data-Driven Case for Innovation\n\n\n\nThis project analyzes how Audemars Piguet can leverage data-driven insights, consumer behavior analysis, and innovation strategy to evolve the Royal Oak brand while maintaining its luxury positioning and heritage identity.\nView Presentation"
+  },
+  {
+    "objectID": "marketing-analytics-projects.html#overview",
+    "href": "marketing-analytics-projects.html#overview",
+    "title": "Marketing Analytics Projects",
+    "section": "Overview",
+    "text": "Overview\nThis project examines whether customer satisfaction with fast-food mobile apps influences purchasing behavior and app usage."
+  },
+  {
+    "objectID": "marketing-analytics-projects.html#research-objective",
+    "href": "marketing-analytics-projects.html#research-objective",
+    "title": "Marketing Analytics Projects",
+    "section": "Research Objective",
+    "text": "Research Objective\nThe goal was to understand if higher satisfaction with mobile ordering apps leads to increased purchase frequency and repeat usage."
+  },
+  {
+    "objectID": "marketing-analytics-projects.html#methodology",
+    "href": "marketing-analytics-projects.html#methodology",
+    "title": "Marketing Analytics Projects",
+    "section": "Methodology",
+    "text": "Methodology\nSurvey data was collected to measure customer satisfaction and behavior. Key variables included:\n\nEase of use\n\nOrdering speed\n\nOrder accuracy\n\nOverall convenience\n\nStatistical methods such as correlation and regression analysis were used to evaluate relationships between satisfaction and purchasing behavior."
+  },
+  {
+    "objectID": "marketing-analytics-projects.html#key-findings",
+    "href": "marketing-analytics-projects.html#key-findings",
+    "title": "Marketing Analytics Projects",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nCustomer satisfaction levels were generally high\n\nApp usage varied across users\n\nA positive relationship between satisfaction and usage was observed\n\nHowever, the relationship was not statistically significant"
+  },
+  {
+    "objectID": "marketing-analytics-projects.html#insights",
+    "href": "marketing-analytics-projects.html#insights",
+    "title": "Marketing Analytics Projects",
+    "section": "Insights",
+    "text": "Insights\nThe results suggest that app satisfaction alone does not strongly drive purchase behavior. Other factors such as promotions, pricing, and brand loyalty likely have a greater influence on purchasing decisions."
+  },
+  {
+    "objectID": "marketing-analytics-projects.html#business-implications",
+    "href": "marketing-analytics-projects.html#business-implications",
+    "title": "Marketing Analytics Projects",
+    "section": "Business Implications",
+    "text": "Business Implications\n\nImproving app usability is important but not sufficient\n\nMarketing strategies should focus on incentives and engagement\n\nTargeting key demographics (young adults and students) can increase effectiveness"
   },
   {
     "objectID": "marketing analytics page.html",
@@ -172,7 +200,7 @@
     "href": "digital-marketing-projects.html#solution-design-strategic-impact",
     "title": "Digital Marketing Projects",
     "section": "Solution Design & Strategic Impact",
-    "text": "Solution Design & Strategic Impact\nThe proposed solution centered on implementing Mixed Reality experiences inside Zara stores, including virtual styling sessions, MR‑guided store navigation, curated Zara + Zara Home displays, and immersive product try‑ons without fitting rooms. The implementation plan followed a structured 18‑month rollout, from planning and technology selection to pilot testing and full deployment. Expected outcomes included a 10% increase in customer spending, a 15% boost in brand awareness, improved staff interaction scores, and stronger word‑of‑mouth marketing. By blending fashion, technology, and experiential retail, the solution positions Zara to elevate customer engagement, increase dwell time, and strengthen its competitive edge in the global fashion market."
+    "text": "Solution Design & Strategic Impact\nThe proposed solution centered on implementing Mixed Reality experiences inside Zara stores, including virtual styling sessions, MR‑guided store navigation, curated Zara + Zara Home displays, and immersive product try‑ons without fitting rooms. The implementation plan followed a structured 18‑month rollout, from planning and technology selection to pilot testing and full deployment. Expected outcomes included a 10% increase in customer spending, a 15% boost in brand awareness, improved staff interaction scores, and stronger word‑of‑mouth marketing. By blending fashion, technology, and experiential retail, the solution positions Zara to elevate customer engagement, increase dwell time, and strengthen its competitive edge in the global fashion market.\n\n\n\n\n\n\nZara Marketing Plan Development\n\n\n\nThis project focuses on developing a strategic marketing plan for Zara by analyzing consumer behavior, brand positioning, and digital marketing opportunities within the fast fashion industry.\nView Presentation"
   },
   {
     "objectID": "digital-marketing-projects.html#project-background-2",
