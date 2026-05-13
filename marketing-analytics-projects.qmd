@@ -2,79 +2,88 @@
 title: "Marketing Analytics Projects"
 ---
 
-# Does App Satisfaction Drive Fast Food Purchases?
-
-## Project Background
-
-This project explored Zara’s challenge of improving its in‑store customer experience in a fast‑fashion environment where consumer expectations are shifting toward personalization, digital integration, and immersive retail. Although Zara is a global leader with more than 3,000 stores, the brand faces gaps in engagement, limited in‑store interactivity, and a lack of seamless digital‑physical integration. The goal of the project was to analyze Zara’s customer journey, identify pain points, and design an innovative solution that enhances the shopping experience through emerging technology.
-
-## Research Approach & Technology Insight
-
-The team conducted a full analysis of Zara’s customer journey, identifying key friction points such as confusion around styles and sizes, limited payment options, slow returns, and a lack of personalized assistance. To address these issues, the project evaluated immersive technologies — including Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR). MR emerged as the most effective solution due to its ability to merge physical and digital environments, enabling real‑time interaction with virtual products, styling tools, and curated collections. The research also examined Zara Home’s integration potential, recognizing an opportunity to create a unified lifestyle experience through shared space and MR‑enhanced displays.
-
-## Solution Design & Strategic Impact
-
-The proposed solution centered on implementing Mixed Reality experiences inside Zara stores, including virtual styling sessions, MR‑guided store navigation, curated Zara + Zara Home displays, and immersive product try‑ons without fitting rooms. The implementation plan followed a structured 18‑month rollout, from planning and technology selection to pilot testing and full deployment. Expected outcomes included a 10% increase in customer spending, a 15% boost in brand awareness, improved staff interaction scores, and stronger word‑of‑mouth marketing. By blending fashion, technology, and experiential retail, the solution positions Zara to elevate customer engagement, increase dwell time, and strengthen its competitive edge in the global fashion market.
-
-# Rising Stars Muay Thai MSDM Final Project
+## Rising Stars Muay Thai (RSMT) – MSDM Final Project
 
 ## About Rising Stars Muay Thai (RSMT)
 
-Rising Stars Muay Thai (RSMT) is a Sacramento-based Muay Thai promotion known for its loyal fighter and fan community, strong local partnerships, and “fighters-first” matchmaking philosophy. The organization hosts live events and pay-per-view (PPV) fight nights, primarily promoted through social media and Eventbrite.
+Rising Stars Muay Thai (RSMT) is a Sacramento-based Muay Thai promotion known for its loyal fighter and fan community, strong local partnerships, and a “fighters-first” matchmaking philosophy. The organization hosts live events and pay-per-view (PPV) fight nights, primarily promoted through social media and Eventbrite.
 
-Despite its strong grassroots presence and authentic brand, RSMT currently lacks a centralized digital ecosystem, limiting its ability to scale and compete at a higher level.
+While RSMT has built a strong grassroots presence and authentic brand, it previously lacked a centralized digital ecosystem, limiting its ability to scale and compete at a higher level.
+
+------------------------------------------------------------------------
 
 ## The Challenge
 
-RSMT aims to grow into larger venues and expand its audience but faces key limitations:
+Prior to this project, RSMT faced several key limitations:
 
--   No official website or SEO presence
+-   No official website or centralized digital platform\
+-   No structured data collection or analytics infrastructure\
+-   Limited understanding of audience behavior and customer journey\
+-   Heavy reliance on Instagram without measurable conversion tracking\
+-   Disconnected platforms (social media, ticketing, and gym memberships)
 
--   No structured data collection or analytics system
+These challenges made it difficult to optimize marketing performance, measure ROI, and convert fans into long-term customers.
 
--   Limited understanding of its audience and customer journey
+------------------------------------------------------------------------
 
--   Heavy reliance on Instagram without clear conversion tracking
+## Digital Transformation & Implementation
 
--   Disconnected platforms (social media, ticketing, gym memberships)
+::: callout-tip
+A centralized website was successfully developed and deployed, establishing the foundation for a data-driven marketing strategy.
+:::
 
-These challenges make it difficult for RSMT to optimize marketing efforts, measure ROI, and convert fans into long-term customers.
+As part of this project, the following solutions were implemented:
 
-## Our Strategy & Objectives
+-   A fully functional website hosted on GitHub Pages\
+-   Google Analytics 4 integration for real-time tracking\
+-   A Website Traffic Analytics page to monitor and forecast performance\
+-   A structured framework for collecting and analyzing user behavior
+
+This transformation connects digital touchpoints and enables measurable, data-driven decision-making.
+
+------------------------------------------------------------------------
+
+## Strategy & Objectives
 
 This project focuses on transforming RSMT into a data-driven organization through six core analytics objectives:
 
--   **Website Optimization:** Build and analyze a website to improve user experience and ticket conversions
+-   **Website Optimization:** Improve user experience and ticket conversion\
+-   **Audience Segmentation:** Identify high-value customer groups\
+-   **Social Media Engagement:** Determine content that drives conversions\
+-   **Customer Journey Mapping:** Track user behavior from awareness to purchase\
+-   **Event-to-Membership Conversion:** Analyze impact of events on gym sign-ups\
+-   **Influencer Impact:** Measure effectiveness of fighter-led promotions
 
--   **Audience Segmentation:** Identify key audience groups for more targeted marketing
+The goal is to create a scalable marketing strategy that drives both event attendance and long-term customer growth.
 
--   **Social Media Engagement:** Determine what content drives engagement and ticket sales
+------------------------------------------------------------------------
 
--   **Customer Journey Mapping:** Understand how users move from awareness to purchase
+## Data Collection & Analytics Framework
 
--   **Event-to-Membership Conversion:** Analyze how events influence gym sign-ups
+A comprehensive data collection strategy has been designed and partially implemented, including:
 
--   **Influencer Impact:** Measure the effectiveness of fighter-led promotions
+-   **Google Analytics 4:** Tracking users, sessions, page views, and engagement\
+-   **Event Data (Eventbrite):** Ticket sales and attendance behavior\
+-   **Social Media Insights:** Engagement metrics from Instagram and Facebook\
+-   **Customer Data (CRM & Surveys):** Demographic and behavioral insights\
+-   **Tracking Systems:** Connecting data across platforms using standardized tracking
 
-The goal is to connect all digital touchpoints, uncover actionable insights, and create a scalable marketing strategy that drives both event attendance and memberships.
+Additionally, a **six-month traffic forecast model** was developed to estimate expected website growth as the platform gains visibility.
 
-## Data Collection Plan
+------------------------------------------------------------------------
 
-As this is an ongoing project, our data collection strategy is currently being developed and implemented. The plan includes:
+## Impact & Value
 
--   **Website Analytics (GA4):** Tracking user behavior, traffic sources, and conversions
+This project establishes a foundation for long-term growth by enabling:
 
--   **Event Data:** Integrating ticket sales and attendance data from Eventbrite
+-   Data-driven marketing decisions\
+-   Improved customer targeting and segmentation\
+-   Increased ticket sales and event attendance\
+-   Higher conversion to gym memberships\
+-   Measurable marketing performance and ROI\
+-   Stronger positioning for sponsorship opportunities
 
--   **Social Media Insights:** Collecting engagement and performance metrics from platforms like Instagram and Facebook
-
--   **Surveys & CRM Data:** Gathering demographic, behavioral, and psychographic insights directly from attendees and gym members
-
--   **Tracking Systems:** Implementing standardized IDs and event tracking to connect data across platforms
-
-We will focus on audiences within a 5–10 mile radius and continuously refine our data collection methods to ensure accuracy, reduce gaps, and improve attribution.
-
-As data is collected, it will be analyzed to guide marketing decisions, improve campaign performance, and support RSMT’s long-term growth.
+Overall, the project transitions RSMT from intuition-based decision-making to a scalable, analytics-driven growth strategy.
 
 # AP Audemars Piguet Re imagining Royal Oak: A Data Driven Case For Innovation
 
@@ -89,3 +98,57 @@ The team designed a Qualtrics survey aligned with two analytics objectives: meas
 ## Key Insights & Managerial Impact
 
 The findings suggest that while customers generally enjoy using fast‑food apps, satisfaction alone does not strongly drive purchase frequency. Instead, usage patterns vary widely, especially among younger, mobile‑first consumers. Based on these insights, the team recommended strengthening core app performance (speed, reliability, navigation), implementing loyalty rewards and personalized deals to encourage repeat usage, and targeting marketing efforts toward young adults and students who are most likely to engage with mobile ordering. These strategies help brands reduce friction, increase engagement, and build long‑term digital loyalty.
+
+::: callout-important
+### AP Audemars Piguet: Reimagining Royal Oak — A Data-Driven Case for Innovation
+
+This project analyzes how Audemars Piguet can leverage data-driven insights, consumer behavior analysis, and innovation strategy to evolve the Royal Oak brand while maintaining its luxury positioning and heritage identity.
+
+[View Presentation](https://canva.link/7me1x2m62it6b8k){.btn .btn-primary}
+:::
+
+# Does App Satisfaction Drive Fast-Food Purchases 
+
+:::: callout-important
+This project analyzes the relationship between mobile app satisfaction and fast-food purchasing behavior using survey data and statistical modeling.
+
+::: callout-important
+[View Presentation](https://canva.link/zpykjpxs20u7vwx){.btn .btn-primary}
+:::
+::::
+
+## Overview
+
+This project examines whether customer satisfaction with fast-food mobile apps influences purchasing behavior and app usage.
+
+## Research Objective
+
+The goal was to understand if higher satisfaction with mobile ordering apps leads to increased purchase frequency and repeat usage.
+
+## Methodology
+
+Survey data was collected to measure customer satisfaction and behavior. Key variables included:
+
+-   Ease of use\
+-   Ordering speed\
+-   Order accuracy\
+-   Overall convenience
+
+Statistical methods such as correlation and regression analysis were used to evaluate relationships between satisfaction and purchasing behavior.
+
+## Key Findings
+
+-   Customer satisfaction levels were generally high\
+-   App usage varied across users\
+-   A positive relationship between satisfaction and usage was observed\
+-   However, the relationship was not statistically significant
+
+## Insights
+
+The results suggest that app satisfaction alone does not strongly drive purchase behavior. Other factors such as promotions, pricing, and brand loyalty likely have a greater influence on purchasing decisions.
+
+## Business Implications
+
+-   Improving app usability is important but not sufficient\
+-   Marketing strategies should focus on incentives and engagement\
+-   Targeting key demographics (young adults and students) can increase effectiveness
