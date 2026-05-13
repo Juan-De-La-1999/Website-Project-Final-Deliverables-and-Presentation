@@ -8,6 +8,16 @@ This page highlights several digital marketing projects I’ve led or contribute
 
 # MBA Strategy Consulting Project - Pomona Pawn Shop
 
+::: callout-important
+### MBA Strategy Consulting Project — Pomona Pawn Shop
+
+This consulting project focuses on developing strategic recommendations for Pomona Pawn Shop by analyzing business operations, customer behavior, market positioning, and growth opportunities.
+
+The project applies business strategy, market analysis, and data-driven decision-making to identify operational improvements and long-term growth strategies for the company.
+
+[View Presentation](https://docs.google.com/presentation/d/1nLEI1kXr_SgK5U7idcZp4Nsyhq-4TvZn/edit?usp=sharing&ouid=104579295347463544569&rtpof=true&sd=true){.btn .btn-primary}
+:::
+
 ## Project Background
 
 Pomona Pawn Shop, a family‑owned business founded in 2012, struggled to attract younger consumers ages 18–25 despite operating in a high‑traffic retail category. The project aimed to understand why this demographic avoids pawn shops, uncover their retail expectations, and identify opportunities to modernize the brand. The study focused on consumer behavior, brand perception, and the impact of digital presence on awareness and trust.

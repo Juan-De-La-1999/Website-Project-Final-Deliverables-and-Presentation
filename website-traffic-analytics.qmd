@@ -1,5 +1,5 @@
 ---
-title: "website-traffic-analytics"
+title: "Website Traffic Analytics"
 ---
 
 # Overview 
