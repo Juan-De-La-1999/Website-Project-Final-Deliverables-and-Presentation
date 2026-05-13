@@ -10,110 +10,162 @@ format:
     embed-resources: true
 ---
 
-# Project Title
+## Project Overview
 
 **Data-Driven Growth Strategy for Rising Stars Muay Thai**
 
-# Data & Source
+-   Improve marketing performance and conversions\
+-   Build analytics infrastructure\
+-   Enable data-driven decision-making
 
-The project will leverage both primary and secondary data sources to build a comprehensive analytics framework:
+------------------------------------------------------------------------
 
--   **Website Analytics (GA4):** User behavior, traffic sources, page views, and conversion tracking
+## Data & Sources
 
--   **Eventbrite Data:** Ticket sales, attendance records, and purchase behavior
+-   **Google Analytics 4 (Website):** User behavior, traffic, engagement\
+-   **Eventbrite:** Ticket sales and attendance\
+-   **Social Media:** Instagram & Facebook insights\
+-   **Customer Data:** Demographics and behavior\
+-   **Influencer Data:** Fighter engagement performance
 
--   **Social Media Analytics:** Instagram and Facebook insights (engagement rates, impressions, content performance)
+------------------------------------------------------------------------
 
--   **Customer Data (CRM & Surveys):** Demographic, behavioral, and psychographic information collected from attendees and gym members
+## Managerial Problems
 
--   **Influencer Data:** Fighter-specific engagement and promotional performance
+-   No centralized website\
+-   No analytics or tracking system\
+-   No ability to measure ROI\
+-   Limited customer insights\
+-   Low membership conversion\
+-   No influencer performance tracking
 
-These datasets will be integrated to provide a holistic view of customer interactions across all touchpoints.
+------------------------------------------------------------------------
 
-# Managerial Problems Motivating the Project
+## Digital Transformation
 
-RSMT currently faces several critical business challenges:
+::: callout-important
+A fully functional website was developed and deployed using GitHub Pages.
+:::
 
--   Lack of a centralized digital platform (no website)
+-   Google Analytics 4 integrated\
+-   Real-time tracking implemented\
+-   Website Traffic Analytics page created\
+-   Data infrastructure established
 
--   No structured data collection or analytics infrastructure
+------------------------------------------------------------------------
 
--   Inability to track marketing performance or measure ROI
+## Target Audience
 
--   Limited understanding of customer segments and behavior
+-   Founder / Owner\
+-   Marketing Team\
+-   Event Operations Managers\
+-   Sponsors and Partners
 
--   Weak conversion from event attendees to gym memberships
+------------------------------------------------------------------------
 
--   No measurable insights into influencer effectiveness
+## Research Questions
 
-These issues prevent management from making informed, data-driven decisions and limit the company’s ability to scale sustainably.
+-   How can a website improve engagement and sales?\
+-   What audience segments are most valuable?\
+-   What content drives conversions?\
+-   Where do users drop off?\
+-   How do events impact memberships?\
+-   Which fighters generate the highest ROI?
 
-# Targeted Audience of the Project
+------------------------------------------------------------------------
 
-This project is designed for key decision-makers within RSMT, including:
+## Methods Used
 
--   Founder/Owner (CEO equivalent)
+-   Descriptive Analytics\
+-   Cluster Analysis\
+-   Customer Journey Analysis\
+-   Conversion Rate Analysis\
+-   Logistic Regression\
+-   A/B Testing\
+-   Cross-Tabulation
 
--   Marketing Manager / Team
+------------------------------------------------------------------------
 
--   Event Operations Managers
+## Website Analytics Implementation
 
--   Potential Sponsors and Business Partners
+::: callout-tip
+Google Analytics 4 is actively tracking user behavior on the website.
+:::
 
-The insights will help leadership optimize marketing strategies, justify investments, and demonstrate value to stakeholders.
+-   Tracks users, sessions, and page views\
+-   Identifies high-performing content\
+-   Measures engagement and interaction
 
-# Research Questions & Objectives
+------------------------------------------------------------------------
 
-The project aims to answer the following key questions:
+## Traffic Forecast
 
--   How can a website improve ticket sales and user engagement?
+-   Website is newly launched → limited real data\
+-   Created a **6-month forecast model**
 
--   What distinct audience segments exist, and which are most valuable?
+Growth driven by: - Resume & LinkedIn sharing\
+- Networking exposure\
+- Repeat visitors
 
--   What type of social media content drives the highest conversions?
+------------------------------------------------------------------------
 
--   Where do users drop off in the customer journey before purchasing tickets?
+## Traffic Forecast Visualization
 
--   How do live events influence gym membership conversions?
+```{r}
+months <- c("Month 1", "Month 2", "Month 3", "Month 4", "Month 5", "Month 6")
+users <- c(25, 55, 90, 135, 185, 245)
 
--   Which fighters (influencers) generate the highest ROI in promotions?
+plot(
+  users,
+  type = "b",
+  pch = 19,
+  xaxt = "n",
+  xlab = "Month",
+  ylab = "Projected Users",
+  main = "Projected Website Traffic Growth"
+)
 
-These questions are aligned with the overall objective of improving conversion rates and marketing efficiency.
+axis(1, at = 1:6, labels = months)
+grid()
+```
 
-# Expected Impact of the Project on the Business
+------------------------------------------------------------------------
 
-The project is expected to deliver both strategic and financial benefits:
+## Multi-Metric Forecast
 
--   Increased ticket sales and event attendance
+```{r}
+users <- c(25, 55, 90, 135, 185, 245)
+sessions <- c(35, 75, 125, 180, 245, 320)
+pageviews <- c(80, 170, 290, 430, 600, 780)
 
--   Higher conversion of fans into gym members
+plot(users, type="o", xaxt="n", ylab="Count", xlab="Month",
+     main="Projected Growth (Users, Sessions, Page Views)")
 
--   Improved marketing ROI through targeted campaigns
+lines(sessions, type="o", lty=2)
+lines(pageviews, type="o", lty=3)
 
--   Clear understanding of high-value customer segments
+axis(1, at=1:6, labels=c("M1","M2","M3","M4","M5","M6"))
 
--   Data-backed decision-making across all marketing efforts
+legend("topleft",
+       legend=c("Users","Sessions","Page Views"),
+       lty=c(1,2,3))
+```
 
--   Stronger positioning for sponsorships through measurable performance
+------------------------------------------------------------------------
 
-Ultimately, the project will enable RSMT to scale operations and transition from intuition-based decisions to a data-driven growth strategy.
+## Business Impact
 
-# Methods to be Used (Quantitative Methods)
+-   Increased ticket sales\
+-   Higher membership conversions\
+-   Improved marketing ROI\
+-   Better audience targeting\
+-   Data-driven decision-making\
+-   Stronger sponsorship positioning
 
-The project will apply several quantitative analytical methods:
+------------------------------------------------------------------------
 
--   **Descriptive Analytics:** Analyze user behavior, engagement metrics, and sales trends
+## Conclusion
 
--   **Cluster Analysis:** Segment audiences based on demographic, behavioral, and psychographic data
-
--   **Customer Journey Analysis:** Track user pathways and identify drop-off points
-
--   **Conversion Rate Analysis:** Evaluate effectiveness of marketing channels and campaigns
-
--   **Regression Analysis (Logistic Regression):** Assess factors influencing ticket purchases and membership conversion
-
--   **A/B Testing (if applicable):** Test variations in website design or content performance
-
--   **Cross-Tabulation Analysis:** Identify relationships between variables such as event attendance and membership sign-ups
-
-These methods will provide actionable insights to optimize marketing strategies and improve overall business performance.
+-   Website + GA4 = analytics foundation\
+-   Forecasting enables proactive strategy\
+-   Transition from intuition → data-driven growth

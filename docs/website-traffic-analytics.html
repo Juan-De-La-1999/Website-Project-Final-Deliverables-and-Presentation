@@ -6,7 +6,6 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Juan De La Cruz">
 
 <title>website-traffic-analytics – Juan De La Cruz | Digital Marketing &amp; Analytics</title>
 <style>
@@ -20,6 +19,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -133,8 +167,29 @@ gtag('config', 'G-NZ6JF0QEKB', { 'anonymize_ip': true});
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#google-analytics-tracking" id="toc-google-analytics-tracking" class="nav-link" data-scroll-target="#google-analytics-tracking">Google Analytics Tracking</a></li>
+  <li><a href="#key-metrics" id="toc-key-metrics" class="nav-link" data-scroll-target="#key-metrics">Key Metrics</a>
+  <ul class="collapse">
+  <li><a href="#users" id="toc-users" class="nav-link" data-scroll-target="#users">Users</a></li>
+  <li><a href="#sessions" id="toc-sessions" class="nav-link" data-scroll-target="#sessions">Sessions</a></li>
+  <li><a href="#page-views" id="toc-page-views" class="nav-link" data-scroll-target="#page-views">Page Views</a></li>
+  <li><a href="#engagement-rate" id="toc-engagement-rate" class="nav-link" data-scroll-target="#engagement-rate">Engagement Rate</a></li>
+  <li><a href="#top-pages" id="toc-top-pages" class="nav-link" data-scroll-target="#top-pages">Top Pages</a></li>
+  </ul></li>
+  <li><a href="#current-tracking-status" id="toc-current-tracking-status" class="nav-link" data-scroll-target="#current-tracking-status">Current Tracking Status</a></li>
+  <li><a href="#six-month-website-traffic-forecast" id="toc-six-month-website-traffic-forecast" class="nav-link" data-scroll-target="#six-month-website-traffic-forecast">Six-Month Website Traffic Forecast</a></li>
+  <li><a href="#projected-website-traffic-growth" id="toc-projected-website-traffic-growth" class="nav-link" data-scroll-target="#projected-website-traffic-growth">Projected Website Traffic Growth</a></li>
+  <li><a href="#forecast-interpretation" id="toc-forecast-interpretation" class="nav-link" data-scroll-target="#forecast-interpretation">Forecast Interpretation</a></li>
+  <li><a href="#forecast-assumptions" id="toc-forecast-assumptions" class="nav-link" data-scroll-target="#forecast-assumptions">Forecast Assumptions</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -148,12 +203,6 @@ gtag('config', 'G-NZ6JF0QEKB', { 'anonymize_ip': true});
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Juan De La Cruz </p>
-          </div>
-  </div>
     
   
     
@@ -164,8 +213,231 @@ gtag('config', 'G-NZ6JF0QEKB', { 'anonymize_ip': true});
 </header>
 
 
+<section id="overview" class="level1">
+<h1>Overview</h1>
+<p>This website uses Google Analytics 4 to track visitor behavior and engagement. The purpose of this page is to summarize how website traffic will be measured and to forecast expected growth over time.<br>
+<br>
+Because this portfolio website was recently published, there is currently limited historical data available. Google Analytics will continue collecting real visitor data as the website is shared through resumes, LinkedIn, job applications, and professional networking.</p>
+</section>
+<section id="google-analytics-tracking" class="level1">
+<h1>Google Analytics Tracking</h1>
+<p>Google Analytics 4 has been successfully integrated into this website using the following measurement ID:<br>
+<br>
+**G-NZ6JF0QEKB**<br>
+<br>
+This implementation allows the website to collect real-time data on user activity and engagement. The tracking is active across all pages of the portfolio, enabling analysis of how visitors navigate and interact with the content.<br>
+<br>
+Google Analytics will be used to monitor performance and identify which sections of the website generate the most interest.</p>
+</section>
+<section id="key-metrics" class="level1">
+<h1>Key Metrics</h1>
+<p>The following key performance indicators (KPIs) are tracked using Google Analytics:</p>
+<section id="users" class="level2">
+<h2 class="anchored" data-anchor-id="users">Users</h2>
+<p>The number of unique visitors to the website. This helps measure overall reach.</p>
+</section>
+<section id="sessions" class="level2">
+<h2 class="anchored" data-anchor-id="sessions">Sessions</h2>
+<p>The total number of visits to the website. A single user can have multiple sessions.</p>
+</section>
+<section id="page-views" class="level2">
+<h2 class="anchored" data-anchor-id="page-views">Page Views</h2>
+<p>The total number of pages viewed across all sessions. This indicates which content is most popular.</p>
+</section>
+<section id="engagement-rate" class="level2">
+<h2 class="anchored" data-anchor-id="engagement-rate">Engagement Rate</h2>
+<p>The percentage of sessions where users actively interact with the website (such as clicking links or viewing multiple pages).</p>
+</section>
+<section id="top-pages" class="level2">
+<h2 class="anchored" data-anchor-id="top-pages">Top Pages</h2>
+<p>Identifies which pages receive the highest traffic, helping determine which projects or sections attract the most attention.</p>
+</section>
+</section>
+<section id="current-tracking-status" class="level1">
+<h1>Current Tracking Status</h1>
+<p>Since the website was recently launched, real-time data is still being collected. Google Analytics tracking is active, and user activity will continue to populate as visitors access the site.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Status Update
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Google Analytics tracking is currently active across the website. Data collection has begun and will increase as the site is shared.</p>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>current_status <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">Metric =</span> <span class="fu">c</span>(<span class="st">"Users"</span>, <span class="st">"Sessions"</span>, <span class="st">"Page Views"</span>, <span class="st">"Engagement Rate"</span>),</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">Status =</span> <span class="fu">c</span>(<span class="st">"Tracking Active"</span>, <span class="st">"Tracking Active"</span>, <span class="st">"Tracking Active"</span>, <span class="st">"Tracking Active"</span>)</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">kable</span>(current_status)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<table class="caption-top table table-sm table-striped small">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Metric</th>
+<th style="text-align: left;">Status</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Users</td>
+<td style="text-align: left;">Tracking Active</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sessions</td>
+<td style="text-align: left;">Tracking Active</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Page Views</td>
+<td style="text-align: left;">Tracking Active</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Engagement Rate</td>
+<td style="text-align: left;">Tracking Active</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</section>
+<section id="six-month-website-traffic-forecast" class="level1">
+<h1>Six-Month Website Traffic Forecast</h1>
+<p>Since the website is newly launched and historical data is limited, a projected traffic forecast was created to estimate expected growth over the next six months.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Forecast Purpose
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This forecast provides an estimate of how website traffic may grow as the portfolio is shared through professional channels such as LinkedIn, resumes, and networking opportunities.</p>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>months <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="st">"Month 1"</span>, <span class="st">"Month 2"</span>, <span class="st">"Month 3"</span>, <span class="st">"Month 4"</span>, <span class="st">"Month 5"</span>, <span class="st">"Month 6"</span>)</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>projected_users <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">25</span>, <span class="dv">55</span>, <span class="dv">90</span>, <span class="dv">135</span>, <span class="dv">185</span>, <span class="dv">245</span>)</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>projected_sessions <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">35</span>, <span class="dv">75</span>, <span class="dv">125</span>, <span class="dv">180</span>, <span class="dv">245</span>, <span class="dv">320</span>)</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>projected_pageviews <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">80</span>, <span class="dv">170</span>, <span class="dv">290</span>, <span class="dv">430</span>, <span class="dv">600</span>, <span class="dv">780</span>)</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>forecast <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(</span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>  <span class="at">Month =</span> months,</span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>  <span class="at">Projected_Users =</span> projected_users,</span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>  <span class="at">Projected_Sessions =</span> projected_sessions,</span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>  <span class="at">Projected_Pageviews =</span> projected_pageviews</span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">kable</span>(forecast)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<table class="caption-top table table-sm table-striped small">
+<thead>
+<tr class="header">
+<th style="text-align: left;">Month</th>
+<th style="text-align: right;">Projected_Users</th>
+<th style="text-align: right;">Projected_Sessions</th>
+<th style="text-align: right;">Projected_Pageviews</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Month 1</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">80</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Month 2</td>
+<td style="text-align: right;">55</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">170</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Month 3</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">290</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Month 4</td>
+<td style="text-align: right;">135</td>
+<td style="text-align: right;">180</td>
+<td style="text-align: right;">430</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Month 5</td>
+<td style="text-align: right;">185</td>
+<td style="text-align: right;">245</td>
+<td style="text-align: right;">600</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Month 6</td>
+<td style="text-align: right;">245</td>
+<td style="text-align: right;">320</td>
+<td style="text-align: right;">780</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</section>
+<section id="projected-website-traffic-growth" class="level1">
+<h1>Projected Website Traffic Growth</h1>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>  projected_users,</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">type =</span> <span class="st">"o"</span>,</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">xaxt =</span> <span class="st">"n"</span>,</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">xlab =</span> <span class="st">"Month"</span>,</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">ylab =</span> <span class="st">"Projected Users"</span>,</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">main =</span> <span class="st">"Projected Website Traffic Growth"</span></span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a><span class="fu">axis</span>(<span class="dv">1</span>, <span class="at">at =</span> <span class="dv">1</span><span class="sc">:</span><span class="dv">6</span>, <span class="at">labels =</span> months)</span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a><span class="fu">grid</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="website-traffic-analytics_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="forecast-interpretation" class="level1">
+<h1>Forecast Interpretation</h1>
+<p>The projected data illustrates a steady increase in website traffic over the next six months. During the first month, traffic is expected to be relatively low due to the website’s recent launch and limited exposure.</p>
+<p>As the website is shared through LinkedIn, resumes, and professional networking, traffic is expected to grow significantly. The increase in users, sessions, and page views reflects greater visibility and interest in the portfolio content.</p>
+<p>The most noticeable growth occurs between months three and six, where traffic is projected to accelerate. This growth is driven by continued sharing, repeat visitors, and increased engagement with project pages.</p>
+<p>Overall, the forecast suggests that the website will experience consistent growth as it becomes part of a broader professional branding and job search strategy.</p>
+</section>
+<section id="forecast-assumptions" class="level1">
+<h1>Forecast Assumptions</h1>
+<p>The projected traffic forecast is based on several key assumptions about how the website will be used and shared:</p>
+<ul>
+<li>The website will be included on resumes and job applications.</li>
+<li>The website will be shared on LinkedIn and professional platforms.</li>
+<li>Recruiters and hiring managers may visit the site.</li>
+<li>Visitors may explore multiple pages, increasing engagement.</li>
+<li>Traffic will gradually increase over time as visibility improves.</li>
+</ul>
+</section>
+<section id="conclusion" class="level1">
+<h1>Conclusion</h1>
+<p>Google Analytics provides a valuable tool for measuring the effectiveness of this portfolio website. By tracking user behavior and analyzing key performance metrics, it is possible to better understand how visitors interact with the content.</p>
+<p>Although the website is newly launched and real-time data is still being collected, the traffic forecast provides a realistic expectation of future growth. As more users visit the site, these insights can be used to optimize content, improve user experience, and enhance overall engagement.</p>
+<p>This combination of real-time analytics and forecasting demonstrates the application of data-driven decision-making in a digital marketing context.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

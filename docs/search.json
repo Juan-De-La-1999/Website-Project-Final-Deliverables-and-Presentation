@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "website-traffic-analytics.html",
+    "href": "website-traffic-analytics.html",
+    "title": "website-traffic-analytics",
+    "section": "",
+    "text": "This website uses Google Analytics 4 to track visitor behavior and engagement. The purpose of this page is to summarize how website traffic will be measured and to forecast expected growth over time.\n\nBecause this portfolio website was recently published, there is currently limited historical data available. Google Analytics will continue collecting real visitor data as the website is shared through resumes, LinkedIn, job applications, and professional networking."
+  },
+  {
+    "objectID": "website-traffic-analytics.html#users",
+    "href": "website-traffic-analytics.html#users",
+    "title": "website-traffic-analytics",
+    "section": "Users",
+    "text": "Users\nThe number of unique visitors to the website. This helps measure overall reach."
+  },
+  {
+    "objectID": "website-traffic-analytics.html#sessions",
+    "href": "website-traffic-analytics.html#sessions",
+    "title": "website-traffic-analytics",
+    "section": "Sessions",
+    "text": "Sessions\nThe total number of visits to the website. A single user can have multiple sessions."
+  },
+  {
+    "objectID": "website-traffic-analytics.html#page-views",
+    "href": "website-traffic-analytics.html#page-views",
+    "title": "website-traffic-analytics",
+    "section": "Page Views",
+    "text": "Page Views\nThe total number of pages viewed across all sessions. This indicates which content is most popular."
+  },
+  {
+    "objectID": "website-traffic-analytics.html#engagement-rate",
+    "href": "website-traffic-analytics.html#engagement-rate",
+    "title": "website-traffic-analytics",
+    "section": "Engagement Rate",
+    "text": "Engagement Rate\nThe percentage of sessions where users actively interact with the website (such as clicking links or viewing multiple pages)."
+  },
+  {
+    "objectID": "website-traffic-analytics.html#top-pages",
+    "href": "website-traffic-analytics.html#top-pages",
+    "title": "website-traffic-analytics",
+    "section": "Top Pages",
+    "text": "Top Pages\nIdentifies which pages receive the highest traffic, helping determine which projects or sections attract the most attention."
+  },
+  {
     "objectID": "marketing-analytics-projects.html",
     "href": "marketing-analytics-projects.html",
     "title": "Marketing Analytics Projects",
@@ -152,6 +194,97 @@
     "title": "Digital Marketing Projects",
     "section": "Strategic Recommendations & Impact",
     "text": "Strategic Recommendations & Impact\nThe final solution proposed a dynamic pricing engine that increases rates during peak demand and lowers prices in low‑utilization lots to encourage redistribution. This model is projected to increase total parking revenue by 10–15%, improve lot balance by 20%, and raise pre‑booking share above 25%. The strategy also includes EV‑tiered pricing, loyalty integration, shuttle coordination, and a mobile app experience featuring real‑time pricing, “best value” recommendations, and one‑tap reservations. Long‑term, the plan positions ONT for future mobility trends—including autonomous vehicles, expanded EV infrastructure, and AI‑powered predictive pricing—ensuring the airport remains competitive, efficient, and traveler‑focused."
+  },
+  {
+    "objectID": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#project-overview",
+    "href": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#project-overview",
+    "title": "Rising Stars Muay Thai: Data-Driven Insights & Strategic Roadmap",
+    "section": "Project Overview",
+    "text": "Project Overview\nData-Driven Growth Strategy for Rising Stars Muay Thai\n\nImprove marketing performance and conversions\n\nBuild analytics infrastructure\n\nEnable data-driven decision-making"
+  },
+  {
+    "objectID": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#data-sources",
+    "href": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#data-sources",
+    "title": "Rising Stars Muay Thai: Data-Driven Insights & Strategic Roadmap",
+    "section": "Data & Sources",
+    "text": "Data & Sources\n\nGoogle Analytics 4 (Website): User behavior, traffic, engagement\n\nEventbrite: Ticket sales and attendance\n\nSocial Media: Instagram & Facebook insights\n\nCustomer Data: Demographics and behavior\n\nInfluencer Data: Fighter engagement performance"
+  },
+  {
+    "objectID": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#managerial-problems",
+    "href": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#managerial-problems",
+    "title": "Rising Stars Muay Thai: Data-Driven Insights & Strategic Roadmap",
+    "section": "Managerial Problems",
+    "text": "Managerial Problems\n\nNo centralized website\n\nNo analytics or tracking system\n\nNo ability to measure ROI\n\nLimited customer insights\n\nLow membership conversion\n\nNo influencer performance tracking"
+  },
+  {
+    "objectID": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#digital-transformation",
+    "href": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#digital-transformation",
+    "title": "Rising Stars Muay Thai: Data-Driven Insights & Strategic Roadmap",
+    "section": "Digital Transformation",
+    "text": "Digital Transformation\n\n\n\n\n\n\nImportant\n\n\nA fully functional website was developed and deployed using GitHub Pages.\n\n\n\n\nGoogle Analytics 4 integrated\n\nReal-time tracking implemented\n\nWebsite Traffic Analytics page created\n\nData infrastructure established"
+  },
+  {
+    "objectID": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#target-audience",
+    "href": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#target-audience",
+    "title": "Rising Stars Muay Thai: Data-Driven Insights & Strategic Roadmap",
+    "section": "Target Audience",
+    "text": "Target Audience\n\nFounder / Owner\n\nMarketing Team\n\nEvent Operations Managers\n\nSponsors and Partners"
+  },
+  {
+    "objectID": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#research-questions",
+    "href": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#research-questions",
+    "title": "Rising Stars Muay Thai: Data-Driven Insights & Strategic Roadmap",
+    "section": "Research Questions",
+    "text": "Research Questions\n\nHow can a website improve engagement and sales?\n\nWhat audience segments are most valuable?\n\nWhat content drives conversions?\n\nWhere do users drop off?\n\nHow do events impact memberships?\n\nWhich fighters generate the highest ROI?"
+  },
+  {
+    "objectID": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#methods-used",
+    "href": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#methods-used",
+    "title": "Rising Stars Muay Thai: Data-Driven Insights & Strategic Roadmap",
+    "section": "Methods Used",
+    "text": "Methods Used\n\nDescriptive Analytics\n\nCluster Analysis\n\nCustomer Journey Analysis\n\nConversion Rate Analysis\n\nLogistic Regression\n\nA/B Testing\n\nCross-Tabulation"
+  },
+  {
+    "objectID": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#website-analytics-implementation",
+    "href": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#website-analytics-implementation",
+    "title": "Rising Stars Muay Thai: Data-Driven Insights & Strategic Roadmap",
+    "section": "Website Analytics Implementation",
+    "text": "Website Analytics Implementation\n\n\n\n\n\n\nTip\n\n\nGoogle Analytics 4 is actively tracking user behavior on the website.\n\n\n\n\nTracks users, sessions, and page views\n\nIdentifies high-performing content\n\nMeasures engagement and interaction"
+  },
+  {
+    "objectID": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#traffic-forecast",
+    "href": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#traffic-forecast",
+    "title": "Rising Stars Muay Thai: Data-Driven Insights & Strategic Roadmap",
+    "section": "Traffic Forecast",
+    "text": "Traffic Forecast\n\nWebsite is newly launched → limited real data\n\nCreated a 6-month forecast model\n\nGrowth driven by: - Resume & LinkedIn sharing\n- Networking exposure\n- Repeat visitors"
+  },
+  {
+    "objectID": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#traffic-forecast-visualization",
+    "href": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#traffic-forecast-visualization",
+    "title": "Rising Stars Muay Thai: Data-Driven Insights & Strategic Roadmap",
+    "section": "Traffic Forecast Visualization",
+    "text": "Traffic Forecast Visualization"
+  },
+  {
+    "objectID": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#multi-metric-forecast",
+    "href": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#multi-metric-forecast",
+    "title": "Rising Stars Muay Thai: Data-Driven Insights & Strategic Roadmap",
+    "section": "Multi-Metric Forecast",
+    "text": "Multi-Metric Forecast"
+  },
+  {
+    "objectID": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#business-impact",
+    "href": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#business-impact",
+    "title": "Rising Stars Muay Thai: Data-Driven Insights & Strategic Roadmap",
+    "section": "Business Impact",
+    "text": "Business Impact\n\nIncreased ticket sales\n\nHigher membership conversions\n\nImproved marketing ROI\n\nBetter audience targeting\n\nData-driven decision-making\n\nStronger sponsorship positioning"
+  },
+  {
+    "objectID": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#conclusion",
+    "href": "Data-Driven-Growth-Strategy-for-Rising-Stars-Muay-Thai.html#conclusion",
+    "title": "Rising Stars Muay Thai: Data-Driven Insights & Strategic Roadmap",
+    "section": "Conclusion",
+    "text": "Conclusion\n\nWebsite + GA4 = analytics foundation\n\nForecasting enables proactive strategy\n\nTransition from intuition → data-driven growth"
   },
   {
     "objectID": "about.html",
