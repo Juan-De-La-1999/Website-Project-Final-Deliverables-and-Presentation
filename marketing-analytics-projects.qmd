@@ -107,7 +107,7 @@ This project analyzes how Audemars Piguet can leverage data-driven insights, con
 [View Presentation](https://canva.link/7me1x2m62it6b8k){.btn .btn-primary}
 :::
 
-# Does App Satisfaction Drive Fast-Food Purchases 
+# Does App Satisfaction Drive Fast-Food Purchases
 
 :::: callout-important
 This project analyzes the relationship between mobile app satisfaction and fast-food purchasing behavior using survey data and statistical modeling.

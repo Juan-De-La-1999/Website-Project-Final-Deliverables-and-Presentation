@@ -2,13 +2,13 @@
 title: "Website Traffic Analytics"
 ---
 
-# Overview 
+# Overview
 
 This website uses Google Analytics 4 to track visitor behavior and engagement. The purpose of this page is to summarize how website traffic will be measured and to forecast expected growth over time.\
 \
 Because this portfolio website was recently published, there is currently limited historical data available. Google Analytics will continue collecting real visitor data as the website is shared through resumes, LinkedIn, job applications, and professional networking.
 
-# Google Analytics Tracking 
+# Google Analytics Tracking
 
 Google Analytics 4 has been successfully integrated into this website using the following measurement ID:\
 \
@@ -18,7 +18,7 @@ This implementation allows the website to collect real-time data on user activit
 \
 Google Analytics will be used to monitor performance and identify which sections of the website generate the most interest.
 
-# Key Metrics 
+# Key Metrics
 
 The following key performance indicators (KPIs) are tracked using Google Analytics:
 
@@ -32,7 +32,7 @@ The number of unique visitors to the website. This helps measure overall reach.
 
 <div>
 
-## Sessions 
+## Sessions
 
 The total number of visits to the website. A single user can have multiple sessions.
 
@@ -40,7 +40,7 @@ The total number of visits to the website. A single user can have multiple sessi
 
 <div>
 
-## Page Views 
+## Page Views
 
 The total number of pages viewed across all sessions. This indicates which content is most popular.
 
